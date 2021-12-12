@@ -97,7 +97,7 @@ spawnkeys();
     background(oasisimg);
     textSize(40);
     fill("black");
-    text("Congratulations, You found Water",displayWidth/2-300,displayHeight/2-380);
+    text("Congratulations, the Boy found Water",displayWidth/2-320,displayHeight/2-380);
 }
 
 if(gameState==="end"){
